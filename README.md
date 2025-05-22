@@ -61,23 +61,36 @@ This project demonstrates the provisoning of EKS cluster using terraform.
 
   ![image](https://github.com/user-attachments/assets/92bc5a46-1e20-4739-970f-46ccad95bf1d)
 
+  ![image](https://github.com/user-attachments/assets/1acf97d8-0990-4b62-9cfc-1c10878a2205
 
+  ![image](https://github.com/user-attachments/assets/d4c06960-95e7-4a6e-a394-82a3d3309af9)
 
+  ![image](https://github.com/user-attachments/assets/1720496e-df66-4b12-957b-6361c06def1e)
 
-
-
-
-
-
-
-
-
-
+  ![image](https://github.com/user-attachments/assets/08a29b0b-bd0f-4587-b94a-97bb70103e74)
 
 
 - Configured Kubernetes provider to authenticate with K8s cluster
+
+  ![image](https://github.com/user-attachments/assets/145ad714-5923-410d-9b55-94cb0eb1be2d)
+
 - Applied configurations
+  
+
 - Deployed nginx Application/Pod
+  ![image](https://github.com/user-attachments/assets/d3c7b1cc-b33e-4199-8f2d-71c4bb0f3af2)
+
+  ![image](https://github.com/user-attachments/assets/ffa7bd63-f88a-4c61-a5d9-2ad1d82d8fa1)
+
+  ![image](https://github.com/user-attachments/assets/c02120f3-d2ed-4ddf-b744-c5d994c58ecd)
+
+  ![image](https://github.com/user-attachments/assets/a30ec9bc-3aa0-465b-be5d-0c3e517f6796)
+
+  ![image](https://github.com/user-attachments/assets/d7a2dcce-76fe-49c9-8382-d47d0567f7d7)
+
+
+
+
 - Terraform destroy (IMPORTANT: delete all your components, if you don’t want to get charged for a running cluster!)
 
  
